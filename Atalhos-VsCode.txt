@@ -1,0 +1,10 @@
+- Terminal > New Terminal		Abre o terminal
+- node +app.js		Executa o arquivo app.js no terminal
+- SHIF+ALT+F	Corrige a formatação do código
+- ALT+Z		Quebra de linha
+- Seleciono a variável e aperto CTRL+F2		Altera o nome de todas as variáveis do projeto
+- Seleciono a palavra e aperto CTRL+D		Seleciona junto a próxima vez que a palavra aparece no código, vai apertando até selecionar todos que eu quero.
+- F12		Leva para o local onde a variável foi declarada
+- CTRL + "espaço"		Dá a sugestão para a função autocompletar
+- CTRL + SHIFT + K		Apaga a linha sem a gente precisar de editar
+- CTRL + ;			Comenta/descomenta o código
